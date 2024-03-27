@@ -1,7 +1,7 @@
 //index.js
 
 function helloNpm() {
-  return "hello NPM 1.0.2"
+  return "hello NPM 1.0.3"
 }
 
 module.exports = helloNpm
